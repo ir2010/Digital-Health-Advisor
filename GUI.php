@@ -29,7 +29,7 @@ img {
 		 font-size: 18px;
 		 letter-spacing: 2px;
 		 line-height: 45px;
-		 padding-left: 1.8em;
+		 padding-left: 1.9em;
 		 }
 .heading{
          padding-top: 14px;
